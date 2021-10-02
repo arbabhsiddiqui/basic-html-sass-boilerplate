@@ -1,0 +1,15 @@
+@import "./reset";
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+// fonts
+$header-font: "Poppins", sans-serif;
+$body-font: "Poppins", sans-serif;
+
+// colors
+$base: #e7eafb;
+$white: #ffffff;
+$black: #000000;
+$accent: #99edcc;
+$dark: #333;
+$primary: #4286f4;
+$secondary: #0a3274;
+$primary-dark: darken($primary, 25);

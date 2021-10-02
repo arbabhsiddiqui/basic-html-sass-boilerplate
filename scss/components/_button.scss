@@ -1,0 +1,14 @@
+.button {
+  padding: 0.5rem 1rem;
+  background: #333;
+  color: #fff;
+  border-radius: 10px;
+  border-color: transparent;
+  transition: all 0.3s ease;
+
+  &:hover {
+    color: #fff !important;
+    background: rgb(27, 27, 27) !important;
+    border: 1px solid #fff;
+  }
+}
